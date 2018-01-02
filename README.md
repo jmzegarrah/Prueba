@@ -93,7 +93,7 @@ Descarga
 
 La versión de Eclipse con la que se trabajara es Eclipse Oxygen, esta versión se puede descargar en el siguiente enlace: [https://www.eclipse.org/home/index.php](https://www.eclipse.org/home/index.php)
 
-![image alt text](image_0.png)
+![image alt text](R_images/image_0.png)
 
 Se presiona el boton [Download](https://www.eclipse.org/downloads/) el cual nos redireccionara a la siguiente página:
 
