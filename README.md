@@ -79,11 +79,8 @@ Huallpa Tapia Luis David</td>
 </table>
 
 
-
-
 **CONTENIDO**
 
-[[TOC]]
 
 1. Software Necesario
 
